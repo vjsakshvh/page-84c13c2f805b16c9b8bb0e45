@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rpt96n.cn/sitemap.xml
